@@ -1,0 +1,11 @@
+# Python cache files
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE/Editor specific files
+.vscode/
+
+# 데이터 파일 (파일 용량이 크면 무시하는 것을 추천)
+*.csv
